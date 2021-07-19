@@ -33,3 +33,4 @@ DOI = {10.3390/electronics10141715}
 * `batch_cross_6_1.py`, `batch_cross_6_1_test_only.py` perform leave-one-out cross-training tests
 * `PPG_ACC_dataset` dataset directory; you must download the dataset and extract it in your working directory, see links in the article
 
+Note that the main code can be run locally or from Google Colab. In the latter case the dataset directory must be on your Google Drive, where results are saved, too. Hopefully this and other details can be understood by inspecting the code.
